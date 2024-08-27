@@ -4,7 +4,7 @@
 <img src="https://hermes.dio.me/tracks/03253ff0-95b9-4904-84e7-2063e9d6cb26.png" alt="Logo Bootcamp" width="220">
 </div>
 
-# Criando-um-Dashboard-corporativo-com-integra-o-com-MySQL-e-Azure
+# Criando um Dashboard corporativo com integração com MySQL e Azure
 
 ![Imagem formacaosqlazure](image/formacaomysql.png)
 
